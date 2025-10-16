@@ -1,2 +1,4 @@
 title.basics.tsv filter=lfs diff=lfs merge=lfs -text
 title.ratings.tsv filter=lfs diff=lfs merge=lfs -text
+title.episodes.tsv filter=lfs diff=lfs merge=lfs -text
+title.episode.tsv filter=lfs diff=lfs merge=lfs -text
